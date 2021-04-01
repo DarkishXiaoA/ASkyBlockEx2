@@ -1,0 +1,12 @@
+name: AskyBlockEx2
+version: ${project.version}
+main: cn.ninja9.darkisha.AskyBlockEx2
+author: DarkishA
+softdepend: [ASkyBlock]
+loadbefore: [ASkyBlock]
+commands:
+  ASkyBlockEx:
+    usage: /<command>
+    description: N/A
+    aliases:
+      - open
